@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "fairadapt"]
 	path = fairadapt
 	url = https://github.com/dplecko/fairadapt
-	shallow = true
-	registered = true
